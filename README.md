@@ -22,11 +22,11 @@ The Virtual Trading Assistant is an automated trading bot designed specifically 
 To get started with the Virtual Trading Assistant, follow these steps:
 
 * Clone the repository: git clone https://github.com/your-username/virtual-trading-assistant.git
-* Install the necessary dependencies: npm install
+* Install the necessary dependencies in Unity
 * Configure your environment variables, including API keys for Uniswap and Chainlink.
-* Build the project: npm run build
-* Start the application: npm run start
-* Access the application in your browser at http://localhost:3000
+* Start the project
+* Build the application for Windows/iOS/Android
+* Access the application through shortcut
 
 ## Usage
 * Connect your Metamask wallet to the application.
