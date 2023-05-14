@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Trading bot
+  m_EditorClassIdentifier: 
+  characterName: Trading bot
+  brain: workspaces/default-lqpctsjatsofixmqo9znog/characters/trading_bot
+  avatar: {fileID: 0}
+  workspace: workspaces/default-lqpctsjatsofixmqo9znog
+  currentScene: workspaces/default-lqpctsjatsofixmqo9znog/characters/trading_bot
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: 78333d2b1cc0644b5b7a14f13963b8a3, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/default-lqpctsjatsofixmqo9znog/scenes/hackathon
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/39dae55d-16ca-471e-a8e3-73d51211cf0c.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/39dae55d-16ca-471e-a8e3-73d51211cf0c_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/39dae55d-16ca-471e-a8e3-73d51211cf0c_portrait.jpg
+  characterID: 

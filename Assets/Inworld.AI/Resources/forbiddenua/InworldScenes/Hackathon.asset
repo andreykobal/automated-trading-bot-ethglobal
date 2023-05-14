@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3ad0515a2868cd4282589144c7820fd, type: 3}
+  m_Name: Hackathon
+  m_EditorClassIdentifier: 
+  fullName: workspaces/default-lqpctsjatsofixmqo9znog/scenes/hackathon
+  shortName: Hackathon
+  description: Blockchain Developers Hackathon
+  characters:
+  - workspaces/default-lqpctsjatsofixmqo9znog/characters/trading_bot
+  triggers:
+  - workspaces/default-lqpctsjatsofixmqo9znog/triggers/execute_trade_scene
+  index: 0
